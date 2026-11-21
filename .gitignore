@@ -1,0 +1,7 @@
+**/target/
+.idea/
+*.iml
+.env
+config/application-local.properties
+patch-backups/
+*.log

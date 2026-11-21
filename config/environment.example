@@ -1,0 +1,11 @@
+# Reference only; enter values in IntelliJ Run > Edit Configurations > Environment variables.
+# Do not put your real password in this tracked example.
+DB_HOST=127.0.0.1
+DB_PORT=2001
+DB_NAME=nourish_poltri_shop
+DB_USER=myapp_user
+DB_PASSWORD=
+SERVER_ADDRESS=127.0.0.1
+SERVER_PORT=8080
+CORS_ALLOWED_ORIGINS=http://localhost:4200,http://127.0.0.1:4200
+SWAGGER_ENABLED=true
